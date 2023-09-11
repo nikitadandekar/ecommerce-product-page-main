@@ -1,0 +1,132 @@
+body {
+  background-color: rgb(229, 232, 229);
+  margin-left: 30px;
+  margin-right: 30px;
+}
+.container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.heading h1 {
+  color: hsl(0, 0%, 0%);
+  padding-left: 150px;
+  size: 60px;
+}
+.card p {
+  color: hsl(219, 9%, 45%);
+}
+.card {
+  width: 500px;
+
+  display: flex;
+
+  gap: 50px;
+}
+.container2 img {
+  position: relative;
+  left: 200px;
+}
+.container3 img {
+  width: 50px;
+  height: 50px;
+  padding-right: 300px;
+}
+.box {
+  display: flex;
+  justify-content: center;
+  margin: 100px;
+}
+.box2 {
+  position: absolute;
+  margin-top: 520px;
+  gap: 30px;
+  margin-right: 584px;
+  margin-left: 3px;
+}
+.new img {
+  width: 500px;
+  height: 500px;
+  border-radius: 13px;
+}
+.box2 img {
+  border-color: hsl(26, 100%, 55%);
+  width: 100px;
+  height: 100px;
+  margin-left: 20px;
+  border-radius: 8px;
+  margin-top: 4px;
+  margin-right: 4px;
+}
+
+.box3 {
+  margin-left: 100px;
+  margin-top: 80px;
+}
+.box3 h3 {
+  color: hsl(26, 100%, 55%);
+}
+.box3 p {
+  color: hsl(219, 9%, 45%);
+}
+.n h3 {
+  width: 50px;
+  height: 30px;
+  background-color: hsl(25, 100%, 94%);
+  border-radius: 8px;
+  padding-top: 4px;
+  padding-left: 6px;
+  margin-top: 1px;
+  margin-left: 100px;
+  position: relative;
+  bottom: 50px;
+}
+.n h4 {
+  color: hsl(219, 9%, 45%);
+  position: relative;
+  bottom: 70px;
+}
+.R {
+  width: 100px;
+  height: 40px;
+  background-color: hsl(0, 0%, 100%);
+  border-radius: 8px;
+  padding-top: 20px;
+  padding-left: 60px;
+  position: relative;
+  bottom: 50px;
+}
+.minus {
+  position: relative;
+  right: 40px;
+}
+.zero {
+  position: relative;
+  bottom: 18px;
+  left: 20px;
+}
+.plus {
+  position: relative;
+  left: 74px;
+  bottom: 34px;
+}
+.A {
+  width: 200px;
+  height: 40px;
+  background-color: hsl(26, 100%, 55%);
+  color: hsl(25, 100%, 94%);
+  border-radius: 8px;
+  padding-left: 80px;
+  padding-top: 20px;
+  position: relative;
+  bottom: 110px;
+}
+.A {
+  box-shadow: 5px 20px 10px hsla(26, 100%, 53%, 0.235);
+  margin-left: 170px;
+  margin-bottom: 120px;
+}
+time {
+  position: relative;
+  left: 5px;
+}
